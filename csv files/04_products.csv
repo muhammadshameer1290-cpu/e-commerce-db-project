@@ -1,0 +1,51 @@
+product_id,vendor_id,category_id,title,description,price,stock_qty,image_url,created_at
+1,1,1,Samsung Galaxy A54,A feature-rich mid-range Android smartphone with excellent camera.,24999,65,/images/products/product_001.jpg,6/29/2025 0:00
+2,2,1,Wireless Earbuds BT-5.0,True wireless earbuds with 30-hour battery life and noise isolation.,3499,104,/images/products/product_002.jpg,11/7/2025 0:00
+3,3,1,Power Bank 20000mAh,High-capacity portable charger supports fast charging for all devices.,2999,39,/images/products/product_003.jpg,2/11/2025 0:00
+4,2,1,Mechanical Keyboard RGB,"Tactile switches with RGB backlight, ideal for gaming and typing.",4999,37,/images/products/product_004.jpg,1/7/2025 0:00
+5,2,1,Smart Watch X1,"Fitness tracker with heart rate, sleep tracking, and 7-day battery.",5999,106,/images/products/product_005.jpg,8/30/2025 0:00
+6,6,2,Men Kurta White Cotton,Premium cotton kurta for everyday and formal Pakistani wear.,1299,60,/images/products/product_006.jpg,10/31/2025 0:00
+7,6,2,Women Lawn Suit 3pc,"Embroidered lawn suit with dupatta, ideal for summer occasions.",2499,72,/images/products/product_007.jpg,6/4/2025 0:00
+8,6,2,Denim Jeans Blue Slim,"Slim-fit stretch denim jeans, available in waist sizes 28 to 38.",1899,40,/images/products/product_008.jpg,5/25/2025 0:00
+9,4,2,Winter Shawl Wool,"Soft pashmina-blend shawl for cold winters, multiple colors.",1499,98,/images/products/product_009.jpg,4/20/2025 0:00
+10,6,2,Formal Dress Shirt,"Iron-free formal shirt in white and blue, regular and slim fit.",1199,104,/images/products/product_010.jpg,9/17/2025 0:00
+11,9,3,Rice Cooker 1.8L,"Automatic keep-warm function, non-stick inner pot, 6-cup capacity.",3299,97,/images/products/product_011.jpg,8/4/2025 0:00
+12,8,3,Pressure Cooker 5L,Stainless steel pressure cooker for fast cooking of daal and meat.,2799,37,/images/products/product_012.jpg,9/3/2025 0:00
+13,8,3,Air Fryer Digital 4L,"Healthier frying with 80% less oil, preset cooking programs.",8999,127,/images/products/product_013.jpg,2/9/2025 0:00
+14,8,3,Non-Stick Frying Pan,"PFOA-free coating with ergonomic handle, safe for all cooktops.",999,55,/images/products/product_014.jpg,5/14/2025 0:00
+15,9,3,Kettle 1.5L Stainless,Fast-boil electric kettle with auto shut-off safety feature.,1599,79,/images/products/product_015.jpg,5/18/2025 0:00
+16,11,4,O-Level Physics Complete,Complete guide covering all O-Level physics topics with exercises.,850,129,/images/products/product_016.jpg,7/31/2025 0:00
+17,12,4,Programming in Python,Introduction to Python programming for beginners and students.,1100,78,/images/products/product_017.jpg,5/6/2025 0:00
+18,10,4,Data Structures C++,Comprehensive guide to data structures and algorithms in C++.,1200,81,/images/products/product_018.jpg,4/26/2025 0:00
+19,10,4,IELTS Preparation Guide,Complete 8-week IELTS preparation with practice tests included.,1400,128,/images/products/product_019.jpg,6/6/2025 0:00
+20,12,4,Islamic Jurisprudence,"Classic reference on Islamic law, translated in Urdu and English.",950,107,/images/products/product_020.jpg,1/15/2025 0:00
+21,14,5,Cricket Bat English Willow,"Grade 2 English willow bat with full cane handle, 2.8 lbs.",8500,93,/images/products/product_021.jpg,9/7/2025 0:00
+22,13,5,Football Size 5 Official,"FIFA-approved match ball, hand-stitched, water-resistant.",2200,100,/images/products/product_022.jpg,3/8/2025 0:00
+23,14,5,Gym Dumbbells 5kg Pair,"Cast iron adjustable dumbbells with rubber grip, sold as pair.",3500,81,/images/products/product_023.jpg,3/12/2025 0:00
+24,15,5,Yoga Mat Anti-Slip 6mm,"Extra thick non-slip yoga mat with carrying strap, 183x61cm.",1800,12,/images/products/product_024.jpg,2/18/2025 0:00
+25,13,5,Jump Rope Speed Cable,Professional speed rope with ball bearings and adjustable cable.,699,71,/images/products/product_025.jpg,4/15/2025 0:00
+26,17,6,Face Wash Neem 100ml,Gentle neem and aloe vera face wash for oily and acne-prone skin.,450,71,/images/products/product_026.jpg,5/2/2025 0:00
+27,18,6,Moisturizer SPF30,Daily moisturizer with sun protection for normal to dry skin.,850,135,/images/products/product_027.jpg,7/22/2025 0:00
+28,16,6,Lipstick Matte Set 5pcs,Long-lasting matte lipstick set in five bold everyday shades.,1100,33,/images/products/product_028.jpg,4/24/2025 0:00
+29,17,6,Hair Oil Argan 200ml,"Nourishing argan and coconut oil blend for stronger, shinier hair.",650,72,/images/products/product_029.jpg,7/8/2025 0:00
+30,17,6,Eyebrow Precision Kit,"Eyebrow pencil, brush, and setting gel kit for defined brows.",550,145,/images/products/product_030.jpg,8/6/2025 0:00
+31,1,7,Lego Classic 500pcs,"Classic brick set for ages 4 and up, builds multiple models.",3200,150,/images/products/product_031.jpg,6/30/2025 0:00
+32,1,7,Remote Control Car,"Full-function RC car with 2.4GHz controller, 30-minute run time.",2800,126,/images/products/product_032.jpg,6/6/2025 0:00
+33,20,7,Board Game Family 4in1,"Chess, Ludo, Snakes & Ladders, and Carrom in one foldable box.",1500,69,/images/products/product_033.jpg,4/9/2025 0:00
+34,20,7,Drawing Kit 48 Colors,"Professional drawing set with colored pencils, markers, and sketchpad.",1900,40,/images/products/product_034.jpg,5/18/2025 0:00
+35,1,7,Baby Doll Soft 30cm,"Washable soft-bodied doll with sleeping eyes, safe for age 2 plus.",890,57,/images/products/product_035.jpg,4/21/2025 0:00
+36,4,8,Car Seat Cover Full Set,"Universal fit PU leather seat covers front and back, black.",4500,133,/images/products/product_036.jpg,9/26/2025 0:00
+37,4,8,Dashboard Camera 1080p,Loop recording dashcam with night vision and G-sensor parking mode.,5500,82,/images/products/product_037.jpg,4/10/2025 0:00
+38,3,8,Tyre Inflator 12V,Digital portable air compressor with auto shut-off pressure preset.,2300,68,/images/products/product_038.jpg,4/2/2025 0:00
+39,3,8,Wiper Blade Pair 24in,"All-season frameless wiper blades, fits most sedan and SUV models.",850,13,/images/products/product_039.jpg,5/17/2025 0:00
+40,2,8,Car Freshener 3pcs Pack,"Long-lasting gel fresheners in oud, jasmine, and ocean scents.",350,80,/images/products/product_040.jpg,1/28/2025 0:00
+41,7,9,Basmati Rice 5kg Premium,"Extra-long grain aged basmati rice from Punjab, ideal for biryani.",1200,84,/images/products/product_041.jpg,2/2/2025 0:00
+42,7,9,Cooking Oil Canola 5L,"100% pure canola oil, cholesterol-free, suitable for all cooking.",1650,135,/images/products/product_042.jpg,1/7/2025 0:00
+43,7,9,Honey Pure 500g,Raw unfiltered forest honey with natural flavor and health benefits.,900,82,/images/products/product_043.jpg,5/3/2025 0:00
+44,6,9,Green Tea 100 Bags,"Premium green tea bags with antioxidants, lemon and mint variants.",480,97,/images/products/product_044.jpg,1/27/2025 0:00
+45,6,9,Biryani Masala 100g,Authentic blend of whole spices for restaurant-quality biryani.,200,132,/images/products/product_045.jpg,2/3/2025 0:00
+46,9,10,A4 Notebook 200 Pages,Ruled hardcover notebook with quality 70gsm paper and ribbon.,350,135,/images/products/product_046.jpg,10/23/2025 0:00
+47,10,10,Ball Pen Box 50pcs,"Smooth-flow ballpoint pens in blue and black, ideal for office.",550,23,/images/products/product_047.jpg,3/18/2025 0:00
+48,10,10,Scientific Calculator,"10-digit display calculator with 240 built-in functions, solar.",1100,87,/images/products/product_048.jpg,5/8/2025 0:00
+49,8,10,Highlighter Set 6 Colors,Chisel-tip fluorescent highlighters in six bright pastel colors.,380,116,/images/products/product_049.jpg,6/2/2025 0:00
+50,10,10,Stapler Heavy Duty 40sh,"Full-strip heavy-duty stapler for up to 40 sheets, with staples.",650,67,/images/products/product_050.jpg,5/14/2025 0:00

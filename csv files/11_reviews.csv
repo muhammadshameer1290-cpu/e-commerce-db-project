@@ -1,0 +1,61 @@
+review_id,user_id,product_id,rating,comment,reviewed_at
+1,36,47,3,Average quality. Could be better for the price.,2025-06-23 00:00:00
+2,70,10,5,Exactly as described in the listing. Will buy again.,2025-08-26 00:00:00
+3,68,15,5,"Superb quality, very satisfied with my purchase.",2025-04-04 00:00:00
+4,61,39,3,Good quality but delivery took slightly longer than expected.,2025-08-23 00:00:00
+5,71,2,3,Fast delivery and original product. Packaging was good.,2025-01-23 00:00:00
+6,44,18,3,"Excellent product, highly recommended for everyday use.",2025-06-08 00:00:00
+7,44,10,5,Amazing product! Exactly what I was looking for.,2025-10-06 00:00:00
+8,73,48,4,Fast delivery and original product. Packaging was good.,2025-11-28 00:00:00
+9,72,30,3,Fast delivery and original product. Packaging was good.,2025-01-25 00:00:00
+10,71,11,5,Average quality. Could be better for the price.,2025-03-05 00:00:00
+11,64,50,4,Amazing product! Exactly what I was looking for.,2025-07-24 00:00:00
+12,58,4,5,"Superb quality, very satisfied with my purchase.",2025-07-17 00:00:00
+13,27,11,4,Exactly as described in the listing. Will buy again.,2025-09-12 00:00:00
+14,22,44,4,Works perfectly. No issues at all after one month of use.,2025-02-12 00:00:00
+15,40,14,5,Amazing product! Exactly what I was looking for.,2025-08-09 00:00:00
+16,36,23,5,Exactly as described in the listing. Will buy again.,2025-05-31 00:00:00
+17,65,44,4,Good quality but delivery took slightly longer than expected.,2025-06-17 00:00:00
+18,47,34,5,Fast delivery and original product. Packaging was good.,2025-08-17 00:00:00
+19,60,3,5,Good product but instructions were missing inside the box.,2025-03-27 00:00:00
+20,27,26,5,"Superb quality, very satisfied with my purchase.",2025-08-17 00:00:00
+21,40,40,3,Good product but instructions were missing inside the box.,2025-06-30 00:00:00
+22,24,45,5,Amazing product! Exactly what I was looking for.,2025-11-24 00:00:00
+23,38,34,3,Good quality but delivery took slightly longer than expected.,2025-07-27 00:00:00
+24,56,26,4,Works perfectly. No issues at all after one month of use.,2025-03-23 00:00:00
+25,59,48,3,Exactly as described in the listing. Will buy again.,2025-08-13 00:00:00
+26,53,15,3,Exactly as described in the listing. Will buy again.,2025-05-01 00:00:00
+27,71,50,5,Average quality. Could be better for the price.,2025-07-16 00:00:00
+28,34,34,5,"Excellent product, highly recommended for everyday use.",2025-03-20 00:00:00
+29,35,50,5,"Superb quality, very satisfied with my purchase.",2025-07-10 00:00:00
+30,46,23,4,Good quality but delivery took slightly longer than expected.,2025-03-12 00:00:00
+31,35,42,5,Average quality. Could be better for the price.,2025-06-10 00:00:00
+32,60,18,5,Fast delivery and original product. Packaging was good.,2025-02-28 00:00:00
+33,68,23,3,Good product but instructions were missing inside the box.,2025-09-13 00:00:00
+34,40,33,5,Amazing product! Exactly what I was looking for.,2025-10-15 00:00:00
+35,68,29,3,Fast delivery and original product. Packaging was good.,2025-05-14 00:00:00
+36,66,29,2,Not worth the price. Quality is below average.,2025-09-09 00:00:00
+37,33,8,2,Good quality but delivery took slightly longer than expected.,2025-03-30 00:00:00
+38,78,46,4,Good quality but delivery took slightly longer than expected.,2025-06-13 00:00:00
+39,63,23,1,Works perfectly. No issues at all after one month of use.,2025-05-29 00:00:00
+40,78,20,2,Good product but instructions were missing inside the box.,2025-03-31 00:00:00
+41,71,24,5,Very satisfied with the product. Great value for money.,2025-04-13 00:00:00
+42,71,9,2,"Superb quality, very satisfied with my purchase.",2025-07-04 00:00:00
+43,56,37,3,"Superb quality, very satisfied with my purchase.",2025-10-10 00:00:00
+44,29,40,1,Good quality but delivery took slightly longer than expected.,2025-07-23 00:00:00
+45,66,47,4,Works perfectly. No issues at all after one month of use.,2025-07-29 00:00:00
+46,73,37,1,Exactly as described in the listing. Will buy again.,2025-11-25 00:00:00
+47,25,29,4,Best purchase I made this month. Highly recommended.,2025-06-26 00:00:00
+48,29,50,5,Best purchase I made this month. Highly recommended.,2025-04-04 00:00:00
+49,70,9,4,Works perfectly. No issues at all after one month of use.,2025-01-29 00:00:00
+50,74,8,5,Exactly as described in the listing. Will buy again.,2025-03-26 00:00:00
+51,31,21,2,Average quality. Could be better for the price.,2025-05-26 00:00:00
+52,75,6,3,Very satisfied with the product. Great value for money.,2025-10-10 00:00:00
+53,38,9,3,Not worth the price. Quality is below average.,2025-02-17 00:00:00
+54,53,42,2,Not worth the price. Quality is below average.,2025-03-20 00:00:00
+55,31,43,5,Good product but instructions were missing inside the box.,2025-06-22 00:00:00
+56,74,37,1,"Excellent product, highly recommended for everyday use.",2025-01-24 00:00:00
+57,62,50,5,Fast delivery and original product. Packaging was good.,2025-04-18 00:00:00
+58,70,37,4,Not worth the price. Quality is below average.,2025-01-16 00:00:00
+59,52,41,5,Fast delivery and original product. Packaging was good.,2025-06-04 00:00:00
+60,51,16,4,Fast delivery and original product. Packaging was good.,2025-02-07 00:00:00

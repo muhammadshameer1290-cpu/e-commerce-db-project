@@ -1,0 +1,55 @@
+billing_method_id,user_id,method_type,account_title,account_number,card_last4,card_brand,is_default
+1,71,easypaisa,Zara Qureshi,03118280833,0000,None,1
+2,64,jazzcash,Zara Farooq,03002651601,0000,None,1
+3,55,card,Rehan Raza,N/A,2646,UBL Visa,1
+4,35,cash_on_delivery,Rabia Malik,N/A,0000,None,1
+5,43,easypaisa,Naveed Hussain,03118443690,0000,None,1
+6,56,jazzcash,Fatima Baig,03003791137,0000,None,1
+7,26,card,Farah Chaudhry,N/A,5906,UBL Visa,1
+8,24,cash_on_delivery,Kamran Malik,N/A,0000,None,1
+9,22,easypaisa,Uzma Javed,03111485654,0000,None,1
+10,61,jazzcash,Imran Hussain,03001771600,0000,None,1
+11,72,card,Zubair Rana,N/A,6314,UBL Visa,1
+12,28,cash_on_delivery,Salman Khan,N/A,0000,None,1
+13,37,easypaisa,Nadia Mirza,03111941524,0000,None,1
+14,32,jazzcash,Rehan Baig,03005921894,0000,None,1
+15,46,card,Adnan Farooq,N/A,6873,UBL Visa,1
+16,39,cash_on_delivery,Hassan Chaudhry,N/A,0000,None,1
+17,59,easypaisa,Hira Akhtar,03117288789,0000,None,1
+18,38,jazzcash,Amna Rana,03008225725,0000,None,1
+19,44,card,Adnan Bukhari,N/A,3385,UBL Visa,1
+20,47,cash_on_delivery,Sobia Raza,N/A,0000,None,1
+21,57,easypaisa,Rabia Hussain,03115096953,0000,None,1
+22,33,jazzcash,Usman Mirza,03009911492,0000,None,1
+23,40,card,Omer Bhatti,N/A,7751,UBL Visa,1
+24,31,cash_on_delivery,Tariq Baig,N/A,0000,None,1
+25,70,easypaisa,Asad Ansari,03114020853,0000,None,1
+26,36,jazzcash,Ahmed Malik,03003851852,0000,None,1
+27,67,card,Fatima Hashmi,N/A,3868,UBL Visa,1
+28,25,cash_on_delivery,Adnan Bhatti,N/A,0000,None,1
+29,73,easypaisa,Rabia Qureshi,03112324869,0000,None,1
+30,48,jazzcash,Adnan Hussain,03007418028,0000,None,1
+31,34,card,Uzma Rana,N/A,4945,UBL Visa,1
+32,65,cash_on_delivery,Imran Bukhari,N/A,0000,None,1
+33,21,easypaisa,Saima Hashmi,03119349470,0000,None,1
+34,50,jazzcash,Amna Ahmed,03003401116,0000,None,1
+35,54,card,Waqar Ahmed,N/A,4804,UBL Visa,1
+36,60,cash_on_delivery,Zubair Hussain,N/A,0000,None,1
+37,49,easypaisa,Danish Chaudhry,03118736811,0000,None,1
+38,27,jazzcash,Sobia Javed,03005261032,0000,None,1
+39,42,card,Omer Hashmi,N/A,8529,UBL Visa,1
+40,58,cash_on_delivery,Tariq Akhtar,N/A,0000,None,1
+41,53,easypaisa,Waqar Naqvi,03115283671,0000,None,1
+42,29,jazzcash,Hira Malik,03001157662,0000,None,1
+43,74,card,Tooba Rana,N/A,8622,UBL Visa,1
+44,52,cash_on_delivery,Bushra Khan,N/A,0000,None,1
+45,30,easypaisa,Ali Bhatti,03115825658,0000,None,1
+46,62,jazzcash,Rehan Ansari,03003650391,0000,None,1
+47,63,card,Zara Hussain,N/A,2210,UBL Visa,1
+48,69,cash_on_delivery,Nadia Javed,N/A,0000,None,1
+49,45,easypaisa,Asad Naqvi,03118410995,0000,None,1
+50,66,jazzcash,Hassan Raza,03006797629,0000,None,1
+51,51,card,Salman Qureshi,N/A,5901,UBL Visa,1
+52,68,cash_on_delivery,Nadia Baig,N/A,0000,None,1
+53,41,easypaisa,Zubair Hashmi,03118118722,0000,None,1
+54,23,jazzcash,Waqar Bukhari,03005195951,0000,None,1
